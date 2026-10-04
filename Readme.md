@@ -2,24 +2,22 @@
 <html lang="en">
 
 <head>
-  <title>Formatting with HTML and CSS</title>
+   <link rel="stylesheet" href="styles.css">
   <style>
-        body {
+    body {
             font-family: Arial;
-            background-color: #f4f4f4;
-            color: #333333;
+            background-color: white;
+            color: black;
             line-height: 1.6;
             margin: 0;
             padding: 20px;
         }
-
         main {
             max-width: 900px;
             margin: 30px auto;
             padding: 35px;
             background-color: white;
         }
-
         header {
             background-color: maroon;
             color: white;
@@ -27,29 +25,23 @@
             text-align: center;
             margin-bottom: 30px;
         }
-
         h1 {
             font-size: 30px;
             margin: 0;
         }
-
         h2 {
             color: maroon;
-            border-bottom: 2px solid #dddddd;
+            border-bottom: 2px solid Grey;
             padding-bottom: 8px;
             margin-top: 35px;
         }
-
         strong {
             color: red;
         }
-
         em {
-            background-color: #fff2a8;
+            background-color: Yellow;
             padding: 2px 4px;
-        }
-
- </style>
+        } </style>
 
 </head>
 
