@@ -6,7 +6,7 @@
 
 <header>
     <h1>Understanding an Effective Campaign: Minecraft X McDonald's</h1>
-    <p>Analyzing the rhetorical strategies behind a popular collaboration</p>
+    <p><em>Analyzing the rhetorical strategies behind a popular collaboration</em></p>
 </header>
 
 <h2>Understanding the Target Audience</h2>
@@ -22,6 +22,8 @@ to McDonald's reminded older fans of their childhood while introducing younger
 audiences to a new experience.
 </p>
 
+![minecraft movie](Minecraftpic.jpg)!
+
 <p>
 The collaboration encouraged brand loyalty through collectible toys connected
 to the game and movie. Children were interested in receiving the toys, while
@@ -30,16 +32,6 @@ familiarity. Although the promotion was originally designed to attract younger
 customers and their parents, it reached a wider variety of audiences. This
 helped McDonald's expand its marketing beyond its usual Happy Meal customers.
 </p>
-
-<figure>
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
-         alt="Minecraft video game cover showing its recognizable block-based world"
-         width="350">
-    <figcaption>
-        Figure 1. Minecraft's recognizable visual world helped create
-        familiarity and excitement around the McDonald's collaboration.
-    </figcaption>
-</figure>
 
 <h2>Rhetorical Appeals: Logos, Pathos, and Kairos</h2>
 
@@ -83,6 +75,8 @@ It has become a cultural reference point that connects children, teenagers,
 and adults who grew up playing it. McDonald's used this emotional connection
 to make the promotion feel familiar, exciting, and memorable.
 </p>
+
+![Happy Meal](Happymeal.jpg)!
 
 <p>
 The colorful packaging, character toys, and game-related content encouraged
